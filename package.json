@@ -1,0 +1,20 @@
+{
+	"name": "romannumbers-parser",
+	"version": "1.0.0",
+	"main": "./build/main.js",
+	"license": "MIT",
+	"scripts": {
+		"start": "node .",
+		"dev": "nodemon ./main.ts",
+		"build": "tsc --project ."
+	},
+	"author": {
+		"name": "Gepetojj"
+	},
+	"devDependencies": {
+		"@types/node": "^14.14.31",
+		"nodemon": "^2.0.7",
+		"ts-node": "^9.1.1",
+		"typescript": "^4.2.2"
+	}
+}
