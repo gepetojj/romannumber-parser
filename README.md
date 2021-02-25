@@ -8,11 +8,11 @@ Primeiramente treinar e praticar minhas habilidades com Typescript. Segundamente
 
 ## Libs
 
-Este projeto não usa nenhuma lib em produção, apenas algumas para facilitar o desenvolvimento. [Mais informações](https://github.com/gepetojj/romannumber-parser/package.json).
+Este projeto não usa nenhuma lib em produção, apenas algumas para facilitar o desenvolvimento. [Mais informações](https://github.com/gepetojj/romannumber-parser/blob/main/package.json).
 
 ## Licença
 
-MIT - [Mais informações](https://github.com/gepetojj/romannumber-parser/LICENSE).
+MIT - [Mais informações](https://github.com/gepetojj/romannumber-parser/blob/main/LICENSE).
 
 ## Documentação
 
